@@ -114,4 +114,4 @@ Website: https://ziscom.in
 
 **Document:** ZiS - Full Page Screenshot Privacy Policy
 
-**Version:** 1.0
+**Version:** 1.0.2
